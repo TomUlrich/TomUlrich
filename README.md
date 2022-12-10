@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+<!-- I’m currently learning Web Development. I'm save in HTML, CSS, Bootstrap, Sass. 
+I did a lot tutorials in JavaScript, as there are freecodecamp.org, frontend Mentor, 30 days of JavaScript, Code Wars, etc. 
+In JavaScript I know *all* the basics. Currently I work a lot with third party APIs and Ajax to learn them well. 
+Here are projects I'm proud of:
+- SBF Trainer
+- Star Wars Cards
+- advice generator
+-->
+
 <!--
 **TomUlrich/TomUlrich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +23,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
